@@ -1,0 +1,25 @@
+{
+  "name": "react-native-recaptcha-v3",
+  "version": "1.0.0",
+  "description": "RN wrapperr for recaptcha v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robsonwd/react-native-recaptcha-v3.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "recaptcha",
+    "v3"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robsonwd/react-native-recaptcha-v3/issues"
+  },
+  "homepage": "https://github.com/Robsonwd/react-native-recaptcha-v3#readme"
+}
